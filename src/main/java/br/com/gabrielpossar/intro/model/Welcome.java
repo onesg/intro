@@ -6,7 +6,7 @@ public class Welcome {
     private String name;
     private String msg;
 
-    /* contrutor vázio */
+    /* Contrutor vázio */
     public Welcome() {
     }
 
